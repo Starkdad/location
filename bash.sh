@@ -1,4 +1,4 @@
-#!bin/sh
+clear
 termux-setup-storage
 clear
 termux-tts-speak "HELLO WELCOME LOCATION TRACKER"
